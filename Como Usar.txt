@@ -1,0 +1,16 @@
+1. Baixe o Aplicativo.
+2. Abra o backend no Java
+3. Abra o frontend no VSCODE
+4. Abra o crud2.sql, e execute LINHA POR LINHA lá no MySql.
+5. Tenha no Node.js instalado (Vai utilizar o npm)
+6. Modifique os valores que estão em backend -> src/main/resources -> application.properties
+7. Em nome spring.datasource.username=NOME_BANCO e spring.datasource.password=SENHA_BANCO você vai alterar para os valores do seu banco de dados.
+8. Abra o seu CMD, e procure onde está o seu trabalho. Exemplo, meu trabalho está na Área de Trabalho, então você irá digitar cd Desktop, e após irá digitar cd backend (nome da aplicação em JAVA)
+9. Você irá digitar mvn spring-boot:run
+10. TENHA O MAVEN INSTALADO!! Tem tutorial no YouTube.
+11. Caso não dê nenhum erro no CMD, você agora irá abrir a aplicação frontend lá no vscode
+12. Aperte CONTROL J para abrir o terminal, e digite cd .\frontend\, após isso digite npm start
+13. Agora digite um e-mail que foi posto na tabela do seu mysql (Pode ser o admin@admin.com)
+14. Aproveite da atividade.
+
+LEMBRE-SE DE UTILIZAR O .TXT " UTILIZE ESSE CODIGO EM UM SCRIPT SQL SEPARADO " para funcionar o banco.
